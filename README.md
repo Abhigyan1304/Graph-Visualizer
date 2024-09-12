@@ -19,7 +19,7 @@ Before running the project, make sure you have the following installed:
 1. **Clone the Repository**  
    Clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/username/PathVisualizer.git
+   git clone https://github.com/Abhigyan1304/PathVisualizer.git
 2. **Navigate to the Project Directory**
 Open a terminal and navigate to the project folder:
 
